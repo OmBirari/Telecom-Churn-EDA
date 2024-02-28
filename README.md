@@ -27,3 +27,5 @@ Run the cells in the notebook to reproduce the analysis.
 
 ### Conclusion
 In this project, we performed an EDA on a telecommunications company's customer churn dataset. The analysis helped identify patterns and trends in the data that could be useful for predicting which customers are most likely to churn. Further work can be done to build a predictive model and deploy it as a web application or API.
+
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=OmBirari_01&theme=codeSTACKr&response=true&border=true&time=true&icon=badge"/></a>
